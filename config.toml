@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://insuusvenerati.github.io/landing/"
 languageCode = "en-us"
 title = "Sean Norwood"
 theme = "hugo-sustain"
