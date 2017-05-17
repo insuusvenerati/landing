@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sean Norwood"
+theme = "hugo-sustain"
+
+[params]
+  avatar = "866898.png"
+  author = "Sean Norwood"
+  description = "Describe your website"
+
+[params.social]
+  Github        = "insuusvenerati"
+  Email         = "norwood.sean@gmail.com"
+  Twitter       = "stiforr"
+
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
+
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
