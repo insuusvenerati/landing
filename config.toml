@@ -24,3 +24,9 @@ theme = "hugo-sustain"
   identifier = "projects"
   weight = 200
   url = "/projects/"
+
+[[menu.main]]
+  name = "blog"
+  identifier = "blog"
+  weight = 100
+  url = "https://insuus.netlify.com"
