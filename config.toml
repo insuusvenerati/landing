@@ -1,4 +1,4 @@
-baseURL = "https://insuusvenerati.github.io/landing/"
+baseURL = "http://landing.stiforr.cf"
 languageCode = "en-us"
 title = "Sean Norwood"
 theme = "hugo-sustain"
@@ -29,4 +29,4 @@ theme = "hugo-sustain"
   name = "blog"
   identifier = "blog"
   weight = 100
-  url = "https://insuus.netlify.com"
+  url = "https://stiforr.cf"
