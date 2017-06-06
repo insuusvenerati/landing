@@ -17,7 +17,7 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "https://insuusvenerati.github.io/resume/"
+  url = "http://resume.stiforr.cf"
 
 [[menu.main]]
   name = "projects"
@@ -29,4 +29,4 @@ theme = "hugo-sustain"
   name = "blog"
   identifier = "blog"
   weight = 100
-  url = "https://stiforr.cf"
+  url = "http://stiforr.cf"
